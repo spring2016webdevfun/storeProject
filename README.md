@@ -5,10 +5,10 @@
 ![Contact](/docs/Contact.png)
 
 #Color Schemes
-(/docs/1-palette-1.jpg)
-(/docs/2-palette-1.jpg)
-(/docs/3-palette-1.jpg)
-(/docs/4-palette-1.jpg)
+![Pallet1](/docs/1-palette-1.jpg)
+![Pallet2](/docs/2-palette-1.jpg)
+![Pallet3](/docs/3-palette-1.jpg)
+![Pallet4](/docs/4-palette-1.jpg)
 
 #fonts
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
